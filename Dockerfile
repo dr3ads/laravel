@@ -1,5 +1,5 @@
 FROM dr3ads/php:7.1
-LABEL maintainer="hitalos <hitalos@gmail.com>"
+LABEL maintainer="dr3ads <arnel.basiliote@gmail.com>"
 
 # Download and install NodeJS
 ADD install-node.sh /usr/sbin/install-node.sh
