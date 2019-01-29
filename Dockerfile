@@ -1,4 +1,4 @@
-FROM hitalos/php:latest
+FROM dr3ads/php:7.1
 LABEL maintainer="hitalos <hitalos@gmail.com>"
 
 # Download and install NodeJS
