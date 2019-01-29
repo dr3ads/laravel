@@ -1,4 +1,4 @@
-FROM dr3ads/php
+FROM dr3ads/php:7.1
 LABEL maintainer="dr3ads <arnel.basiliote@gmail.com>"
 
 # Download and install NodeJS
